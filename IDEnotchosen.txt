@@ -1,0 +1,6 @@
+I chose not to use the Eclipse IDE for multiple reasons. First, I did not like how most of the IDE
+was filled with space that could not have text by default. The UI felt very cramped. The UI also
+looked very old unlike other IDE's that have a nice modern look to them. Eclipse is also used for
+Java mainly which is not good for my use case. I program multiple languages right now, so I need
+an IDE that can support many languages easily. Lastly, I like to use VIM keybinds while I code and it
+does not seem easy to put those keybinds into Eclipse.
