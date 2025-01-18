@@ -1,0 +1,7 @@
+The IDE that I decided to use is VSCode. First, I chose VSCode because
+the UI looks modern and friendly. I also like how easy the plugin system is.
+Since I program multiple languages VSCode makes that easy. All I have to do 
+is go to the plugin tab and look up the plugin for my languages. Once I install
+them then I am good to go. The VIM keybinds are just as easy to add. I just
+look up the VIM plugin and I am good to go. I really like the debugger in VSCode
+as well. VSCode is good for my coding needs. It is customizable yet simple.
